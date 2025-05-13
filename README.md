@@ -31,5 +31,4 @@ while True:
         break
     else:
         print("\nInvalid option. Please try again.\n")
-@~Muhammad Abdullah 
-Can u tell me if this is fine for task 1?
+
